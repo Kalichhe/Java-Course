@@ -1,6 +1,6 @@
 package Exercises;
 
-public class Exercise_1 {
+public class Excercise_1 {
     public static void main(String[] args) {
         // Ejercicio 1.
         // Ponte creativo y preséntanos a tu familia con variables, utiliza todos los tipos y cantidad de variables que
